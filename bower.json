@@ -1,0 +1,24 @@
+{
+  "name": "modules-ads",
+  "version": "0.1.0",
+  "homepage": "https://github.com/natgeo/modules-ads",
+  "authors": [
+    "Chuck Carpenter <chuck.carpenter@me.com>"
+  ],
+  "description": "Module for implementing ads on Society properties",
+  "main": "ads.js",
+  "keywords": [
+    "module",
+    "NGS",
+    "ads"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
